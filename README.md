@@ -1,4 +1,4 @@
-# **Excel Image Inserter & Compressor**  
+# **Excel Duplicate Row Remover**  
 This project was developed with AI assistance using ChatGPT and other AI tools.  
 
 ![AI-Assisted](https://img.shields.io/badge/AI-Assisted-blue?style=for-the-badge&logo=ai)  
